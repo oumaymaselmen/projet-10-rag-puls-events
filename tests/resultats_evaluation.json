@@ -1,0 +1,37 @@
+[
+  {
+    "id": 1,
+    "question": "Quels concerts de jazz y a-t-il à Paris ?",
+    "reponse_attendue": "Il y a des concerts de jazz à Paris notamment le Gueorgui Kornazov CROSS WIND Quintet, une collaboration internationale entre Bulgarie France et Cuba avec cuivres et section rythmique",
+    "reponse_chatbot": "Voici les concerts de jazz à Paris parmi nos événements :\n\n🎷 **Gueorgui Kornazov CROSS WIND Quintet** – Une fusion audacieuse entre Bulgarie, France et Cuba, avec des cuivres et une section rythmique dynamique. À ne pas manquer !\n📍 **Paris** | 📅 **17/07/2025** (19h30 & 21h30)\n🔗 [Plus d'infos](https://openagenda.com/jassclub-paris/events/gueorgui-kornazov-cross-wind-quintet-3578036)\n\n🎺 **Magic Malik Fanfare Xp** – Un concert électrisant à La Petite Halle.\n📍 **Paris** | 📅 **28/06/2025**\n🔗 [Plus d'infos](https://openagenda.com/culture/events/magic-malik-fanfare-xp-la-petite-halle-paris)\n\nBonne écoute ! 🎶✨",
+    "score": 90.8
+  },
+  {
+    "id": 2,
+    "question": "Quels événements pour enfants à Paris ?",
+    "reponse_attendue": "Il y a des ateliers créatifs pour enfants à Paris comme Croquer dessiner colorier et des visites interactives ludiques et éducatives pour les petits",
+    "reponse_chatbot": "Voici une sélection d’événements **parfaits pour les enfants à Paris** :\n\n🎨 **Atelier créatif** : *\"Croquer, dessiner, colorier !\"* – Un atelier ludique pour stimuler l’imagination des petits artistes (Paris).\n🔍 **Aventure interactive** : **Visite libre de la Cité des enfants 5/10 ans** – Découvertes scientifiques et jeux adaptés (Paris).\n\n*Besoin d’autres idées ?* 😊",
+    "score": 89.9
+  },
+  {
+    "id": 3,
+    "question": "Quelles expositions y a-t-il en Île-de-France ?",
+    "reponse_attendue": "Il y a plusieurs expositions d'art et de culture en Île-de-France notamment à Paris et Saint-Germain-en-Laye avec des œuvres variées",
+    "reponse_chatbot": "Voici les expositions disponibles en Île-de-France :\n\n🎨 **Paris** :\n- **\"Libye, patrimoine révélé\"** (visite libre)\n- **\"Wes Anderson\"** (un univers visuel unique)\n\n🏛 **Saint-Germain-en-Laye** :\n- **\"Laisser son empreinte, six siècles de l'estampe\"** (gravures, lithographies…)\n\n🌿 **Auvers-sur-Oise** :\n- **\"Van Gogh, les derniers voyages\"** (visite gratuite)\n\n🏡 **Le Vésinet** :\n- **\"1859 : l'inauguration de l'asile impérial du Vésinet\"**\n\nDécouvrez ces pépites artistiques et culturelles ! 😊\n*(Pour plus de détails, cliquez sur les liens.)*",
+    "score": 90.8
+  },
+  {
+    "id": 4,
+    "question": "Quels spectacles de théâtre à Paris ce mois-ci ?",
+    "reponse_attendue": "Il y a des spectacles et visites théâtralisées à Paris avec des performances artistiques immersives mêlant jeu théâtral et émotion",
+    "reponse_chatbot": "Voici une sélection de spectacles de théâtre à Paris ce mois-ci qui pourraient vous intéresser :\n\n🎭 **Visites théâtralisées** – Une expérience immersive unique mêlant visite guidée et jeu d'acteur. *(Paris)*\n🎭 **Performance théâtrale** – Une création originale pour une soirée captivante. *(Paris)*\n🎭 **Personne** – Une pièce du Théâtre de La Balance mise en scène par Elisabeth Chailloux. *(Paris)*\n\nPour plus de détails ou pour réserver, cliquez sur les liens correspondants ! 😊\n\nSi vous cherchez un style ou un thème en particulier, n'hésitez pas à préciser votre demande !",
+    "score": 88.0
+  },
+  {
+    "id": 5,
+    "question": "Quelles activités nature en Île-de-France ?",
+    "reponse_attendue": "Il y a des balades botaniques sorties nature et activités en plein air en Île-de-France notamment dans les jardins et parcs de la région",
+    "reponse_chatbot": "Voici une sélection d’activités nature en Île-de-France qui pourraient vous intéresser :\n\n🌿 **Cinéma en plein air sur la biodiversité** à Montmagny (17 mai) – Une soirée coorganisée par Île-de-France Nature pour découvrir la nature urbaine autrement. [En savoir plus](https://openagenda.com/jardins-ouverts-2025/events/dans-le-cadre-de-la-fete-de-la-nature-soiree-activites-potageres-et-cine-plein-air)\n\n🦇 **Nuit de la chauve-souris** au Grand-Voyeux (22 août) – Une balade nocturne pour observer ces mammifères fascinants dans le cadre de Jardins ouverts. [En savoir plus](https://openagenda.com/totaleimpro20/events/et-si-vous-passiez-une-soiree-dete-avec-des-chauves-souris)\n\n🚶 **Parcours nature entre terre, ciel et eau** à Paris (19 mai) – Une promenade reliant deux parcs du 15e arrondissement, idéale pour une balade urbaine et verte. [En savoir plus](https://openagenda.com/jardins-ouverts-2025/events/parcours-nature-entre-terre-ciel-et-eau-a-paris-7285067)\n\n🐄 **Le Printemps à la Ferme** à Lumigny (77) – Découverte des fermes locales et des produits du terroir. [En savoir plus](https://openagenda.com/toutes-les-chambres-agriculture-agregees/events/le-printemps-a-la-ferme-en-ile-de-france-lumigny-77)\n\nSi vous cherchez une activité en particulier, n’hésitez pas à préciser ! 😊",
+    "score": 88.5
+  }
+]

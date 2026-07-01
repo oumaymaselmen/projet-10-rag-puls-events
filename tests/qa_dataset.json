@@ -1,0 +1,27 @@
+[
+  {
+    "id": 1,
+    "question": "Quels concerts de jazz y a-t-il à Paris ?",
+    "reponse_attendue": "Il y a des concerts de jazz à Paris notamment le Gueorgui Kornazov CROSS WIND Quintet, une collaboration internationale entre Bulgarie France et Cuba avec cuivres et section rythmique"
+  },
+  {
+    "id": 2,
+    "question": "Quels événements pour enfants à Paris ?",
+    "reponse_attendue": "Il y a des ateliers créatifs pour enfants à Paris comme Croquer dessiner colorier et des visites interactives ludiques et éducatives pour les petits"
+  },
+  {
+    "id": 3,
+    "question": "Quelles expositions y a-t-il en Île-de-France ?",
+    "reponse_attendue": "Il y a plusieurs expositions d'art et de culture en Île-de-France notamment à Paris et Saint-Germain-en-Laye avec des œuvres variées"
+  },
+  {
+    "id": 4,
+    "question": "Quels spectacles de théâtre à Paris ce mois-ci ?",
+    "reponse_attendue": "Il y a des spectacles et visites théâtralisées à Paris avec des performances artistiques immersives mêlant jeu théâtral et émotion"
+  },
+  {
+    "id": 5,
+    "question": "Quelles activités nature en Île-de-France ?",
+    "reponse_attendue": "Il y a des balades botaniques sorties nature et activités en plein air en Île-de-France notamment dans les jardins et parcs de la région"
+  }
+]
