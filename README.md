@@ -39,7 +39,7 @@ MISTRAL_API_KEY=votre_cle_ici
 
 ## Résultats
 
-Chatbot RAG évalué à 89,6 % de similarité cosinus — base du projet MVP Puls-Events
+Chatbot RAG évalué à 89,6 % de similarité cosinus - base du projet MVP Puls-Events
 
 ---
 Formation Data Engineer - OpenClassrooms
