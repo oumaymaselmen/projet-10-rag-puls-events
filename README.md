@@ -38,5 +38,7 @@ pip install -r requirements.txt
 Creer un fichier .env avec votre cle API Mistral :
 MISTRAL_API_KEY=votre_cle_ici
 
+ ## Résultats
+    Chatbot RAG évalué à 89,6 % de similarité cosinus, base de la mission MVP
 ---
 Formation Data Engineer - OpenClassrooms
